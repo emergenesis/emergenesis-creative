@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1248.3877"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="citeplasm_logo_horizontal_master.svg"
+   inkscape:export-filename="/home/joshua/Development/repos/emergenesis.com/img/citeplasm_logo_260x42.png"
+   inkscape:export-xdpi="18.74"
+   inkscape:export-ydpi="18.74">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5b7290"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="889.67806"
+     inkscape:cy="50.273967"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Logo Arcs"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.319833,-544.26055)"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       id="path3763"
+       sodipodi:cx="441.43668"
+       sodipodi:cy="424.0473"
+       sodipodi:rx="221.2234"
+       sodipodi:ry="191.92899"
+       d="m 658.40934,386.60382 a 221.2234,191.92899 0 0 1 0,74.88696 L 441.43668,424.0473 z"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       sodipodi:start="6.0868358"
+       sodipodi:end="6.4795348" />
+    <path
+       sodipodi:end="0.9817477"
+       sodipodi:start="0.58904862"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       d="m 625.37721,530.67733 a 221.2234,191.92899 0 0 1 -61.0354,52.95309 L 441.43668,424.0473 z"
+       sodipodi:ry="191.92899"
+       sodipodi:rx="221.2234"
+       sodipodi:cy="424.0473"
+       sodipodi:cx="441.43668"
+       id="path3785"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       id="path3787"
+       sodipodi:cx="441.43668"
+       sodipodi:cy="424.0473"
+       sodipodi:rx="221.2234"
+       sodipodi:ry="191.92899"
+       d="m 484.59522,612.28843 a 221.2234,191.92899 0 0 1 -86.3171,-10e-6 L 441.43668,424.0473 z"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       sodipodi:start="1.3744468"
+       sodipodi:end="1.7671459" />
+    <path
+       sodipodi:end="2.552544"
+       sodipodi:start="2.1598449"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       d="M 318.53155,583.63043 A 221.2234,191.92899 0 0 1 257.49614,530.67734 L 441.43668,424.0473 z"
+       sodipodi:ry="191.92899"
+       sodipodi:rx="221.2234"
+       sodipodi:cy="424.0473"
+       sodipodi:cx="441.43668"
+       id="path3789"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       id="path3791"
+       sodipodi:cx="441.43668"
+       sodipodi:cy="424.0473"
+       sodipodi:rx="221.2234"
+       sodipodi:ry="191.92899"
+       d="m 224.46402,461.49079 a 221.2234,191.92899 0 0 1 0,-74.88698 l 216.97266,37.44349 z"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       sodipodi:start="2.9452431"
+       sodipodi:end="3.3379422" />
+    <path
+       sodipodi:end="4.1233404"
+       sodipodi:start="3.7306413"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       d="m 257.49614,317.41727 a 221.2234,191.92899 0 0 1 61.03541,-52.95309 L 441.43668,424.0473 z"
+       sodipodi:ry="191.92899"
+       sodipodi:rx="221.2234"
+       sodipodi:cy="424.0473"
+       sodipodi:cx="441.43668"
+       id="path3793"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       id="path3795"
+       sodipodi:cx="441.43668"
+       sodipodi:cy="424.0473"
+       sodipodi:rx="221.2234"
+       sodipodi:ry="191.92899"
+       d="m 398.27812,235.80618 a 221.2234,191.92899 0 0 1 86.3171,0 L 441.43668,424.0473 z"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       sodipodi:start="4.5160394"
+       sodipodi:end="4.9087385" />
+    <path
+       sodipodi:end="5.6941367"
+       sodipodi:start="5.3014376"
+       transform="matrix(0.45203174,0,0,0.52102604,-68.223556,423.32086)"
+       d="m 564.34181,264.46418 a 221.2234,191.92899 0 0 1 61.03541,52.95309 L 441.43668,424.0473 z"
+       sodipodi:ry="191.92899"
+       sodipodi:rx="221.2234"
+       sodipodi:cy="424.0473"
+       sodipodi:cx="441.43668"
+       id="path3797"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo Center"
+     style="display:inline"
+     transform="translate(-31.319833,-235.99285)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7ebf0;fill-opacity:1;stroke:none"
+       id="path3911"
+       sodipodi:cx="176.7767"
+       sodipodi:cy="52.139988"
+       sodipodi:rx="158.59395"
+       sodipodi:ry="128.28937"
+       d="m 335.37065,52.139988 a 158.59395,128.28937 0 1 1 -317.187895,0 158.59395,128.28937 0 1 1 317.187895,0 z"
+       transform="matrix(0.15763527,0,0,0.19487196,103.45359,325.83223)"
+       inkscape:export-filename="/home/joshua/Development/repos/emergenesis.com/img/citeplasm_200x200.png"
+       inkscape:export-xdpi="67.5"
+       inkscape:export-ydpi="67.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo Text"
+     transform="translate(-31.319833,-235.99285)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:26.78002167000000000px;word-spacing:0px;fill:#e7ebf0;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Segoe UI Bold"
+       x="273.83701"
+       y="372.73114"
+       id="text3899"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/joshua/Development/repos/emergenesis.com/img/text3899.png"
+       inkscape:export-xdpi="18.74"
+       inkscape:export-ydpi="18.74"><tspan
+         sodipodi:role="line"
+         id="tspan3901"
+         x="273.83701"
+         y="372.73114"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:26.78002167000000000px;fill:#e7ebf0;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold">[cîtëplasm]</tspan></text>
+  </g>
+</svg>
