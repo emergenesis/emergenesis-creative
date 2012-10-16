@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="844.78632"
-   height="305.69571"
+   width="1175"
+   height="185"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="393.25772"
-     inkscape:cy="-14.063937"
+     inkscape:cx="555.36186"
+     inkscape:cy="53.621657"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="1018"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="16"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
-     fit-margin-top="0"
+     fit-margin-top="20"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" />
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,20 +59,20 @@
      inkscape:label="Outer Dots"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-223.51686,-386.8736)"
+     transform="translate(-5.9924444,-534.84879)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Inner Dots"
      style="display:inline"
-     transform="translate(-223.51686,-78.605885)">
+     transform="translate(-5.9924444,-226.58108)">
     <g
        id="g3803"
-       transform="translate(537.76937,-158.59395)"
-       inkscape:export-filename="/home/joshua/Development/repos/emergenesis.com/public/images/emergenesis_logo.png"
-       inkscape:export-xdpi="23.552834"
-       inkscape:export-ydpi="23.552834">
+       transform="translate(-2.6622433,3.0304577)"
+       inkscape:export-filename="/home/joshua/Development/repos/citeplasm.org/images/proj_of_em.png"
+       inkscape:export-xdpi="19.162769"
+       inkscape:export-ydpi="19.162769">
       <path
          d="m 104.04571,210.22887 c 0,11.43678 -9.271341,20.70812 -20.708125,20.70812 -11.436783,0 -20.708128,-9.27134 -20.708128,-20.70812 0,-11.43679 9.271345,-20.70813 20.708128,-20.70813 11.436784,0 20.708125,9.27134 20.708125,20.70813 z"
          sodipodi:ry="20.708128"
@@ -240,21 +240,36 @@
      id="layer2"
      inkscape:label="emergenesis"
      style="display:inline"
-     transform="translate(-223.51686,-78.605885)">
+     transform="translate(-5.9924444,-226.58108)">
     <text
        xml:space="preserve"
        style="font-size:136.49467468px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Questrial;-inkscape-font-specification:Questrial"
        x="218.87604"
-       y="356.18369"
+       y="376.49362"
        id="text3021"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/joshua/Development/repos/emergenesis.com/public/images/emergenesis_logo.png"
-       inkscape:export-xdpi="23.552834"
-       inkscape:export-ydpi="23.552834"><tspan
+       inkscape:export-filename="/home/joshua/Development/repos/citeplasm.org/images/proj_of_em.png"
+       inkscape:export-xdpi="19.162769"
+       inkscape:export-ydpi="19.162769"><tspan
          sodipodi:role="line"
          id="tspan3023"
          x="218.87604"
-         y="356.18369"
+         y="376.49362"
          style="font-size:136.49467468px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.83384943;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Questrial;-inkscape-font-specification:Questrial">emergenesis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:136.49467468px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Questrial;-inkscape-font-specification:Questrial"
+       x="221.81686"
+       y="275.63028"
+       id="text3021-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/joshua/Development/repos/citeplasm.org/images/proj_of_em.png"
+       inkscape:export-xdpi="19.162769"
+       inkscape:export-ydpi="19.162769"><tspan
+         sodipodi:role="line"
+         id="tspan3023-9"
+         x="221.81686"
+         y="275.63028"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:6.83384943;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Questrial;-inkscape-font-specification:Questrial">a project of</tspan></text>
   </g>
 </svg>
